@@ -5,8 +5,7 @@
 
   <div>
     <a href="https://github.com/Ronisank">
-            <img height="180cm" widht="200cm" src="https://github-readme-stats.vercel.app/api?username=ronisank&show_icons=true&theme=dracula&include_all_commits=true">
-            <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronisank&layout=compact&theme=dracula">
+            <img height="180cm" widht="200cm" src="https://github-readme-stats.vercel.app/api?username=ronisank&show_icons=true&theme=dracula&include_all_commits=true"><img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronisank&layout=compact&theme=dracula">
   </div>
     <div style="display: inline-block"><br>
         <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
