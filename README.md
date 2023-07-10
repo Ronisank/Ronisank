@@ -1,7 +1,7 @@
 ### Olá eu sou o Roni Santos  👋
 
 - 🔭 Em transição de carreira
-- 🌱 Estudando tecnologias Front-end **HTML, CSS e JavaScript** e Back-end **C# e Asp net**.
+- 🌱 Estudando tecnologias Front-end **HTML, CSS e JavaScript** e Back-end **C# e Asp net, Python**.
 
   <div>
     <a href="https://github.com/Ronisank">
