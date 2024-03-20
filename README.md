@@ -27,3 +27,5 @@
 
 
 ![snake gif](https://github.com/ronisank/ronisank/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=ronisank&repo=ronisank&theme=react)](https://github.com/ronisank/ronisank)
