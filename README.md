@@ -6,7 +6,7 @@
 - 🔭 Em transição de carreira
 </h3> 
 <h3 align="center">
-- 🌱 Estudando tecnologias Front-end **HTML, CSS e JavaScript** e Back-end **C# e Asp net, Python**.
+- 🌱 Estudando tecnologias Front-end <strong>HTML, CSS e JavaScript e Back-end C# e Asp net, Python</strong>.
 </h3>
   <div align="center">
     <a href="https://github.com/Ronisank">
