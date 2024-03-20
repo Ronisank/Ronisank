@@ -1,4 +1,7 @@
-### Olá eu sou o Roni Santos  👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Roni!;" />
+</h1>
+
 
 - 🔭 Em transição de carreira
 - 🌱 Estudando tecnologias Front-end **HTML, CSS e JavaScript** e Back-end **C# e Asp net, Python**.
@@ -18,7 +21,9 @@
         <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 ##
         
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 
-
-![Snake animation](https://github.com/ronisank/ronisank/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ronisank/ronisank/blob/output/github-contribution-grid-snake.svg)
