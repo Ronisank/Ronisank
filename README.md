@@ -6,7 +6,7 @@
 - 🔭 Em transição de carreira
 </h3> 
 <h3 align="center">
-- 🌱 Estudando tecnologias Front-end <strong>HTML, CSS e JavaScript e Back-end C# e Asp net, Python</strong>.
+- 🌱 Estudando tecnologias Front-end <strong>HTML, CSS e JavaScript e Back-end C# e Asp net, Java, Spring, Python</strong>.
 </h3>
 
 <div>  
@@ -26,6 +26,12 @@
         <img align="center" alt="Roni-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img align="center" alt="Roni-Visual" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
         <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="Roni-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Roni-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="Roni-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="Roni-Express" height="30" width="40" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png">
+        <img align="center" alt="Roni-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    </div><br>
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronisank&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronisank&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
